@@ -7,13 +7,6 @@ def say_hello(name="Ruby Programmer")
   puts "Hello #{name}!"
 end
 
-say_hello(my_name)
-=======
-#stranger = "Liz"
 
-def say_hello (name)
-  puts "Hello #{name}!"
-end
-
-#say_hello
+say_hello
 >>>>>>> fc305953ab8997a16b1b422e096914071a0fa786
